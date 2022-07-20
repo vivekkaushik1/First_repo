@@ -68,60 +68,60 @@ pipeline {
                     {"name": "demo1.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo1"},
                     {"name": "demo2.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo2"},
                     {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo3"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo4"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo5"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo6"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo7"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo8"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo9"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo10"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo11"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo12"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo13"},
-                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo14"},
-                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo15"}]}""")
+                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo4"},
+                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo5"},
+                    {"name": "demo6.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo6"},
+                    {"name": "demo7.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo7"},
+                    {"name": "demo8.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo8"},
+                    {"name": "demo9.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo9"},
+                    {"name": "demo10.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo10"},
+                    {"name": "demo11.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo11"},
+                    {"name": "demo12.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo12"},
+                    {"name": "demo13.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo13"},
+                    {"name": "demo14.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo14"},
+                    {"name": "demo15.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo15"}]}""")
                 }
         }
         stage("PreProd") {
             steps {
             	echo "Prod deploy..."
                 snDevOpsPackage(name: "${packageName}", artifactsPayload: """{"artifacts": [
-                    {"name": "demo1.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos11"},
-                    {"name": "demo2.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos2"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos3"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos4"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos5"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos6"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos7"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos8"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos9"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos10"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos11"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos12"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos13"},
-                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos14"},
-                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demos15"}]}""")
+                    {"name": "demo1.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo1"},
+                    {"name": "demo2.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo2"},
+                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo3"},
+                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo4"},
+                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo5"},
+                    {"name": "demo6.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo6"},
+                    {"name": "demo7.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo7"},
+                    {"name": "demo8.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo8"},
+                    {"name": "demo9.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo9"},
+                    {"name": "demo10.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo10"},
+                    {"name": "demo11.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo11"},
+                    {"name": "demo12.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo12"},
+                    {"name": "demo13.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo13"},
+                    {"name": "demo14.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo14"},
+                    {"name": "demo15.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo15"}]}""")
             }
         }	
         stage("Prod") {
             steps {
             	echo "Prod deploy..."
                 snDevOpsPackage(name: "${packageName}", artifactsPayload: """{"artifacts": [
-                    {"name": "demo1.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo111"},
-                    {"name": "demo2.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo112"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo113"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo114"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo115"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo116"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo117"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo118"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo119"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo120"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo121"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo122"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo123"},
-                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo124"},
-                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo125"}]}""")
+                    {"name": "demo1.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo1"},
+                    {"name": "demo2.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo2"},
+                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo3"},
+                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo4"},
+                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo5"},
+                    {"name": "demo6.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo6"},
+                    {"name": "demo7.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo7"},
+                    {"name": "demo8.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo8"},
+                    {"name": "demo9.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo9"},
+                    {"name": "demo10.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo10"},
+                    {"name": "demo11.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo11"},
+                    {"name": "demo12.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo12"},
+                    {"name": "demo13.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo13"},
+                    {"name": "demo14.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo14"},
+                    {"name": "demo15.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo15"}]}""")
             }
         }
 	 stage("Change") {
@@ -134,21 +134,21 @@ pipeline {
             steps {
             	echo "Prod deploy..."
                 snDevOpsPackage(name: "${packageName}", artifactsPayload: """{"artifacts": [
-                    {"name": "demo1.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo1"},
-                    {"name": "demo2.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo2"},,
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo3"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo4"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo5"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo6"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo7"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo8"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo9"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo10"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo11"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo12"},
-                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo13"},
-                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo14"},
-                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "deemo15"}]}""")
+                    {"name": "demo1.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo1"},
+                    {"name": "demo2.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo2"},
+                    {"name": "demo3.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo3"},
+                    {"name": "demo4.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo4"},
+                    {"name": "demo5.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo5"},
+                    {"name": "demo6.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo6"},
+                    {"name": "demo7.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo7"},
+                    {"name": "demo8.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo8"},
+                    {"name": "demo9.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo9"},
+                    {"name": "demo10.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo10"},
+                    {"name": "demo11.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo11"},
+                    {"name": "demo12.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo12"},
+                    {"name": "demo13.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo13"},
+                    {"name": "demo14.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo14"},
+                    {"name": "demo15.jar","version": "${version}","semanticVersion": "${semanticVersion}","repositoryName": "demo15"}]}""")
             }
         }	
     }
