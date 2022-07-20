@@ -26,607 +26,607 @@ public class secondTest {
      @Test
      public void shouldAnswerWithTrue1()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue2()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue3()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue4()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue5()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue6()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue7()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue8()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue9()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue10()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
 
      @Test
      public void shouldAnswerWithTrue11()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue12()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue13()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue14()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue15()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue16()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue17()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue18()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue19()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue20()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
 
      @Test
      public void shouldAnswerWithTrue21()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue22()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue23()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue24()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue25()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue26()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue27()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue28()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue29()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue30()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
 
      @Test
      public void shouldAnswerWithTrue31()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue32()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue33()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue34()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue35()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue36()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue37()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue38()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue39()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue40()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
 
      @Test
      public void shouldAnswerWithTrue41()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue42()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue43()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue44()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue45()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue46()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue47()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue48()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue49()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue50()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
 
      @Test
      public void shouldAnswerWithTrue51()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue52()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue53()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue54()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue55()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue56()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue57()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue58()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue59()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue60()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
     @Test
      public void shouldAnswerWithTrue61()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue62()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue63()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue64()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue65()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue66()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue67()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue68()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue69()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue70()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }    
      @Test
      public void shouldAnswerWithTrue71()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue72()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue73()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue74()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue75()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue76()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue77()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue78()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue79()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue80()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue81()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue82()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue83()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue84()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue85()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue86()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue87()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue88()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue89()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue90()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue91()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue92()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue93()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue94()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue95()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue96()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue97()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue98()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue99()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue100()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue101()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue102()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue103()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue104()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue105()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue106()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue107()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue108()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue109()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue110()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue111()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue112()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue113()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue114()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue115()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue116()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue117()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue118()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue119()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
      @Test
      public void shouldAnswerWithTrue120()
     {
-        assertTrue( true );
+        Assert.assertTrue(true, "test is passed");
     }
     							
 							
