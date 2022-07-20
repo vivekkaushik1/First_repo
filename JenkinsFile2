@@ -29,21 +29,7 @@ pipeline {
                 junit "**/target/surefire-reports/*.xml"
             }
         }
-        stage("ITTest") {
-            steps {
-            	echo "Testing..."
-                sh "mvn test -Dpublish"
-                junit "**/target/surefire-reports/*.xml"
-            }
-        } 
-        
-        stage(UnitTTest") {
-            steps {
-            	echo "Testing..."
-                sh "mvn test -Dpublish"
-                junit "**/target/surefire-reports/*.xml"
-            }
-        } 
+       
 
         stage("Deploy") {
             steps {
