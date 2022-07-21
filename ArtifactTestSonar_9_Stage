@@ -162,7 +162,7 @@ def sonarTest() {
 	//    sh '${SCANNER_HOME}/bin/sonar-scanner -Dproject.settings=${SCANNER_HOME}/conf/sonar-scanner.properties '
 	    //sh '${SCANNER_HOME}/bin/sonar-scanner -Dproject.settings=${SCANNER_HOME}/conf/qa-sonar-scanner-cloud.properties'
     //}
-  post {
+ /* post {
         // Clean after build
         always {
             cleanWs(cleanWhenNotBuilt: false,
@@ -172,5 +172,5 @@ def sonarTest() {
                     patterns: [[pattern: '.gitignore', type: 'INCLUDE'],
                                [pattern: '.propsfile', type: 'EXCLUDE']])
         }
-    } 
+    }*/ 
 }
